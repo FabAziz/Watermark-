@@ -1,3 +1,3 @@
 # Watermark-
-Watermark glitched fixed for Fivem
-Added RGB colour mode like Redline RP v2.0
+Download this file 
+Copy and Paste this file in your resourse folder.
